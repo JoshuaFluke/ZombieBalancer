@@ -1,4 +1,0 @@
-sceneSetups:
-- path: D:/Unity Stuff/Roll-A-Zombie/Roll-A-Zombie-Source-Code/Assets/Game.unity
-  isLoaded: 1
-  isActive: 1
